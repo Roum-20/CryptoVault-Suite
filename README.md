@@ -86,10 +86,13 @@ This module is very useful for explaining the evolution from classical to modern
 ---
 
 ## running step 
+```bash
 pip install -r requirements.txt
+```
+```bash
 streamlit run app.py
-
 ---
+
 
 
 
